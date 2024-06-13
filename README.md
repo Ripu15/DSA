@@ -1,2 +1,2 @@
 # DSA
-DSA journey through striver A2Z DSA sheet
+DSA journey through striver's A2Z DSA sheet
